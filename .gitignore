@@ -1,0 +1,14 @@
+*~
+*.pyc
+*.DS_Store
+.idea
+*.pem
+*.p12
+tests/unit/results/*
+*.coverage
+node_modules
+bower_components
+*.log
+.sass-cache
+*.datastore
+*.mo
